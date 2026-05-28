@@ -111,9 +111,6 @@ O Figma foi utilizado para:
 - organização das telas
 - estruturação responsiva
 
-🔗 Link do Figma:
-(COLE O LINK AQUI)
-
 ---
 
 🤖 Desenvolvimento com Inteligência Artificial
@@ -122,6 +119,7 @@ Durante o desenvolvimento do projeto foram utilizadas ferramentas de inteligênc
 
 Ferramentas utilizadas
 
+- Figma AI
 - Claude AI
 - ChatGPT
 
@@ -172,21 +170,17 @@ A documentação acadêmica, banner do projeto e materiais complementares estão
 
 🔗 Links do Projeto
 
-Claude Project
+Claude Project e Landing Page
 
-(COLE O LINK)
+https://claude.ai/public/artifacts/423780c4-af73-49ca-9e42-259c50b7d593
 
 Figma
 
-(COLE O LINK)
+https://cell-sphere-59682608.figma.site
 
 Trello
 
-(COLE O LINK)
-
-Landing Page
-
-(COLE O LINK)
+https://trello.com/b/AnpXjfxY/usina-de-projetos
 
 ---
 
