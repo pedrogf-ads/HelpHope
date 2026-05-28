@@ -1,2 +1,2 @@
 # HelpHope
-Plataforma digital para gestão clínica e administrativa da ASIPECA Public
+Plataforma digital para gestão clínica e administrativa da ASIPECA 
