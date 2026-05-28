@@ -4,4 +4,4 @@ Esta pasta contém arquivos, referências ou informações relacionadas ao códi
 
 ## Link do Figma
 
-Cole aqui o link do protótipo.
+https://cell-sphere-59682608.figma.site
