@@ -173,7 +173,7 @@ A documentação acadêmica, banner do projeto e materiais complementares estão
 
 Claude Project e Landing Page
 
-https://claude.ai/public/artifacts/423780c4-af73-49ca-9e42-259c50b7d593
+https://claude.ai/public/artifacts/a73865b7-5ab8-4f4f-84dd-9d85224c22ba
 
 Figma
 
