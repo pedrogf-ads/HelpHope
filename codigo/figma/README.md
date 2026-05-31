@@ -1,5 +1,3 @@
-# C# Código Fonte — HelpHope
-
 ## Sobre esta Pasta
 
 Durante o desenvolvimento do projeto HelpHope foram realizadas diversas alterações, correções e melhorias tanto no design quanto na implementação do sistema.
