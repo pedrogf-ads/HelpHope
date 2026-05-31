@@ -9,7 +9,7 @@ codigo-figma/
 ├── README.md
 └── Versao-Final/
 
-###Versao-Final
+##Versao-Final
 
 A pasta Versao-Final contém os arquivos exportados da versão final do projeto.
 
@@ -23,7 +23,7 @@ default_shadcn_theme.css — tema visual utilizado;
 ATTRIBUTIONS.md — atribuições do projeto;
 pnpm-workspace.yaml — configuração do workspace.
 
-####Observação Importante
+##Observação Importante
 
 O Figma permite visualizar e restaurar versões anteriores do projeto, porém não disponibiliza de forma prática a exportação individual do código-fonte de cada versão sem restaurar o arquivo principal.
 
