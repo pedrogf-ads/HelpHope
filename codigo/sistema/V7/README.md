@@ -31,11 +31,11 @@ A V7 não contém backend real implementado no arquivo enviado.
 Ela deve ser tratada como uma versão frontend monolítica do sistema.
 
 Estrutura da Versão
-V7/
-├── frontend/
-│   ├── index.html
-│   ├── css/
-│   │   └── style.css
-│   └── js/
-│       └── script.js
-├── README.md
+#V7/
+ ├── frontend/
+ │   ├── index.html
+ │   ├── css/
+ │   │   └── style.css
+ │   └── js/
+ │       └── script.js
+ ├── README.md
