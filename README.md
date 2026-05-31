@@ -54,11 +54,10 @@ Back-end
 
 Banco de Dados
 
-- MySQL
+- PostgreSQL
 
 Ferramentas
 
-- Git
 - GitHub
 - Trello
 - Figma
@@ -207,7 +206,7 @@ Main Technologies
 - React
 - TypeScript
 - Node.js
-- MySQL
+- PostgreSQL
 - Figma
 - Claude AI
 - GitHub
