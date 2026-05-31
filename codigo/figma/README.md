@@ -40,15 +40,3 @@ O Figma permite visualizar e restaurar versões anteriores do projeto, porém n�
 Para evitar riscos de sobrescrever ou comprometer a versão final já concluída, optou-se por não restaurar versões anteriores do projeto.
 
 Por esse motivo, este repositório disponibiliza apenas o código exportado da versão final do protótipo.
-
----
-
-## Projeto
-
-**HelpHope** — Sistema desenvolvido como projeto acadêmico para apoio à gestão e acompanhamento de pacientes da ONG ASIPECA.
-
-**Curso:** Análise e Desenvolvimento de Sistemas (ADS)
-
-**Disciplina:** Usina de Projetos Experimentais (UPX)
-
-**Instituição:** Facens — Sorocaba/SP
