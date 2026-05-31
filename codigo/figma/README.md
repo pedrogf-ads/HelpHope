@@ -1,82 +1,57 @@
 ## Sobre esta Pasta
 
-Durante o desenvolvimento do projeto HelpHope foram realizadas diversas alterações, correções e melhorias tanto no design quanto na implementação do sistema.
+Esta pasta contém o código-fonte disponibilizado para o projeto HelpHope.
 
-Devido à grande quantidade de versões produzidas ao longo do projeto, foram selecionadas quatro versões representativas para demonstrar a evolução do desenvolvimento de forma clara e organizada.
-
-Os prompts utilizados no desenvolvimento do sistema e do protótipo encontram-se documentados em pastas específicas deste repositório.
+Durante o desenvolvimento foram realizadas diversas versões e iterações do sistema, acompanhadas por alterações registradas nos prompts utilizados no Figma e no desenvolvimento da aplicação.
 
 ---
 
-## Estrutura da Pasta Código
+## Estrutura
 
-### Pastas Disponíveis
-
-* **V1** — Versão Inicial
-* **V2** — Versão Intermediária Parte 1
-* **V3** — Versão Intermediária Parte 2
-* **V4** — Versão Final
-
----
-
-## Descrição das Versões
-
-### V1 — Versão Inicial
-
-Primeira implementação do sistema.
-
-Principais características:
-
-* Estrutura inicial do projeto;
-* Primeiras telas desenvolvidas;
-* Funcionalidades básicas;
-* Base utilizada para evolução do sistema.
+```text
+codigo/
+├── README.md
+└── Versao-Final/
+```
 
 ---
 
-### V2 — Versão Intermediária Parte 1
+## Observação Importante
 
-Primeira etapa de expansão do projeto.
+O desenvolvimento do protótipo foi realizado utilizando o Figma e suas ferramentas de geração de interface.
 
-Principais características:
+Embora o histórico de versões do projeto tenha sido preservado, o Figma não disponibiliza de forma prática a exportação individual do código-fonte de versões antigas sem a necessidade de restaurar essas versões no arquivo principal.
 
-* Inclusão de novas funcionalidades;
-* Melhorias na interface do usuário;
-* Ajustes de navegação;
-* Correções identificadas durante os testes.
+A restauração de versões anteriores não foi realizada para evitar riscos de sobrescrever ou comprometer a versão final já concluída do projeto.
 
----
+Por esse motivo, optou-se por manter neste repositório:
 
-### V3 — Versão Intermediária Parte 2
-
-Segunda etapa de evolução do sistema.
-
-Principais características:
-
-* Aprimoramento das funcionalidades existentes;
-* Expansão dos módulos administrativos;
-* Melhorias de usabilidade;
-* Refinamentos do projeto.
+* O código-fonte da versão final do sistema;
+* O histórico completo dos prompts utilizados durante o desenvolvimento;
+* A documentação do projeto;
+* Os registros visuais (prints) da evolução do sistema.
 
 ---
 
-### V4 — Versão Final
+## Versão Disponível
 
-Versão utilizada como entrega final do projeto.
+### Versão Final
 
-Principais características:
+A versão disponibilizada nesta pasta corresponde à versão final do sistema desenvolvida para o projeto HelpHope.
 
-* Funcionalidades completas;
-* Interface refinada;
-* Correções realizadas durante o desenvolvimento;
-* Estrutura final do sistema.
+Esta versão reúne as funcionalidades implementadas ao longo do desenvolvimento e representa o resultado final apresentado para avaliação.
 
 ---
 
-## Observação
+## Histórico de Desenvolvimento
 
-O desenvolvimento do HelpHope envolveu um número significativamente maior de versões e iterações do que as disponibilizadas nesta pasta.
+A evolução do projeto pode ser acompanhada através das pastas:
 
-As quatro versões selecionadas representam os principais marcos do desenvolvimento e foram escolhidas para demonstrar a evolução do projeto de forma objetiva e organizada.
+* Prompts do Sistema;
+* Prompts do Figma;
+* Prints do Sistema;
+* Prints do Figma;
+* Documentação do Projeto.
 
-A evolução completa do design pode ser consultada na pasta de prompts e na documentação do Figma disponibilizadas neste repositório.
+Esses materiais foram mantidos para demonstrar o processo de construção, evolução e refinamento do HelpHope ao longo do desenvolvimento.
+
