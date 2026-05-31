@@ -20,11 +20,12 @@ Esta versão foi enviada como um arquivo HTML único contendo estrutura, estilos
 ```txt
 V4/
 ├── frontend/
+│   ├── index.html
 │   ├── css/
 │   │   └── style.css
 │   └── js/
 │       └── script.js
-├── README.md
+└── README.md
 
 ```
 
