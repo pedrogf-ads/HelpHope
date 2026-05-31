@@ -38,10 +38,11 @@ Portanto, esta versão deve ser descrita no GitHub como:
 ```txt
 V6/
 ├── frontend/
-    ├── index.html
-    ├── css/
-    │   └── style.css
-    └── js/
-        └── script.js
+│   ├── index.html
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── script.js
+└── README.md
 
 ```
