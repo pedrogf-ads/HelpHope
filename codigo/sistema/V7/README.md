@@ -41,12 +41,12 @@ Ela deve ser tratada como uma versão frontend monolítica do sistema.
 ## Estrutura
 
 ```txt
-V7/
 ├── frontend/
-    ├── index.html
-    ├── css/
-    │   └── style.css
-    └── js/
-        └── script.js
+│   ├── index.html
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── script.js
+└── README.md
 
 ```
