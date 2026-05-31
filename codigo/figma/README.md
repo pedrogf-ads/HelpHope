@@ -1,57 +1,31 @@
-## Sobre esta Pasta
+Sobre esta Pasta
 
-Esta pasta contém o código-fonte disponibilizado para o projeto HelpHope.
+Esta pasta reúne os arquivos exportados pelo Figma Make durante o desenvolvimento do projeto HelpHope.
 
-Durante o desenvolvimento foram realizadas diversas versões e iterações do sistema, acompanhadas por alterações registradas nos prompts utilizados no Figma e no desenvolvimento da aplicação.
+O objetivo desta organização é disponibilizar o código da versão final do protótipo utilizado como base para o desenvolvimento do sistema.
 
----
-
-## Estrutura
-
-```text
-codigo/
+Estrutura
+codigo-figma/
 ├── README.md
 └── Versao-Final/
-```
+Versao-Final
 
----
+A pasta Versao-Final contém os arquivos exportados da versão final do projeto.
 
-## Observação Importante
+Arquivos principais:
 
-O desenvolvimento do protótipo foi realizado utilizando o Figma e suas ferramentas de geração de interface.
+src/ — código-fonte da aplicação;
+index.html — arquivo principal;
+package.json — dependências e scripts do projeto;
+vite.config.ts — configuração do Vite;
+postcss.config.mjs — configuração do PostCSS;
+default_shadcn_theme.css — tema visual utilizado;
+ATTRIBUTIONS.md — atribuições do projeto;
+pnpm-workspace.yaml — configuração do workspace.
+Observação Importante
 
-Embora o histórico de versões do projeto tenha sido preservado, o Figma não disponibiliza de forma prática a exportação individual do código-fonte de versões antigas sem a necessidade de restaurar essas versões no arquivo principal.
+O Figma permite visualizar e restaurar versões anteriores do projeto, porém não disponibiliza de forma prática a exportação individual do código-fonte de cada versão sem restaurar o arquivo principal.
 
-A restauração de versões anteriores não foi realizada para evitar riscos de sobrescrever ou comprometer a versão final já concluída do projeto.
+Para evitar riscos de sobrescrever ou comprometer a versão final já concluída, optou-se por não restaurar versões anteriores do projeto.
 
-Por esse motivo, optou-se por manter neste repositório:
-
-* O código-fonte da versão final do sistema;
-* O histórico completo dos prompts utilizados durante o desenvolvimento;
-* A documentação do projeto;
-* Os registros visuais (prints) da evolução do sistema.
-
----
-
-## Versão Disponível
-
-### Versão Final
-
-A versão disponibilizada nesta pasta corresponde à versão final do sistema desenvolvida para o projeto HelpHope.
-
-Esta versão reúne as funcionalidades implementadas ao longo do desenvolvimento e representa o resultado final apresentado para avaliação.
-
----
-
-## Histórico de Desenvolvimento
-
-A evolução do projeto pode ser acompanhada através das pastas:
-
-* Prompts do Sistema;
-* Prompts do Figma;
-* Prints do Sistema;
-* Prints do Figma;
-* Documentação do Projeto.
-
-Esses materiais foram mantidos para demonstrar o processo de construção, evolução e refinamento do HelpHope ao longo do desenvolvimento.
-
+Por esse motivo, este repositório disponibiliza apenas o código exportado da versão final do protótipo.
