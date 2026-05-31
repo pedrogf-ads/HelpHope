@@ -1,5 +1,3 @@
-# Código Figma — HelpHope
-
 ## Sobre esta Pasta
 
 Esta pasta reúne os arquivos exportados pelo Figma Make durante o desenvolvimento do projeto **HelpHope**.
