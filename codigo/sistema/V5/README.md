@@ -22,11 +22,12 @@ O arquivo enviado foi analisado procurando separação entre frontend, backend, 
 ```txt
 V5/
 ├── frontend/
+│   ├── index.html
 │   ├── css/
 │   │   └── style.css
 │   └── js/
 │       └── script.js
-├── README.md
+└── README.md
 
 ```
 
