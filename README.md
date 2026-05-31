@@ -68,7 +68,9 @@ Ferramentas
 ---
 
 📂 Organização do Repositório
+## Estrutura
 
+```txt
 HelpHope/
 │
 ├── codigo/
@@ -85,7 +87,7 @@ HelpHope/
 │   └── prints/
 │
 └── README.md
-
+```
 ---
 
 🖥️ Estrutura do Projeto
